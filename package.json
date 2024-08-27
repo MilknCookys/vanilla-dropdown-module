@@ -1,7 +1,7 @@
 {
-  "name": "basic-js-template",
+  "name": "dropdown-menu-module",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic Vanilla JS dropdown menu module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

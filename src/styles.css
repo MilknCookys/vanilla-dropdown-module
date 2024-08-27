@@ -63,6 +63,31 @@ h6 {
 
 /* General CSS */
 
-h1 {
-  color: red;
+.hidden {
+  display: none !important;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.dropdownTarget {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+
+  margin: 100px;
+}
+
+.dropdownContainer {
+  position: relative;
+  left: 100px;
+
+  width: 200px;
+  height: 300px;
+
+  background-color: thistle;
 }
